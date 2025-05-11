@@ -1,0 +1,6 @@
+langchain-community==0.3.23
+fastapi==0.115.12
+langgraph==0.4.3
+uvicorn==0.34.2
+pygithub==2.6.1
+langchain-google-genai==2.1.4
